@@ -13,7 +13,7 @@
   <Country>Unspecified</Country>
   <Continent>Unspecified</Continent>
   <ContactPerson />
-  <AccessProtocol />
+  <AccessProtocol>None</AccessProtocol>
   <DateAvailable />
   <RightsHolder />
   <Depositor />
